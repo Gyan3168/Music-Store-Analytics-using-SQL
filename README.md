@@ -9,4 +9,4 @@ This project aims to analyse the music playlist database. You can examine the da
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://github.com/Gyan3168/Music-Store-Analytics-using-SQL/blob/main/MusicDatabaseSchema.png)
+![MusicDatabaseSchema](https://github.com/Gyan3168/Music-Store-Analytics-using-SQL/blob/main/Resources/MusicDatabaseSchema.png)
